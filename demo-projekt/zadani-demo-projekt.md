@@ -19,10 +19,10 @@ Všechny podklady k projektu najdeš ve složce `./prilohy/`:
 1. Identifikuj rozpory, otevřené otázky a nerozhodnuté body napříč podklady.
 2. Vytvoř shrnutí cíle projektu a hlavních funkcí (s přihlédnutím k rozporům z bodu 1).
 3. Vytvoř glosář pojmů, které budou použity v dokumentaci.
-4. Vytvoř epik podle šablony `./sablony/epic.sablona.md`
-5. Uprav `.github/copilot-instructions.md` pro ukládání do `demo-projekt/epics/`
+4. Uprav `.github/copilot-instructions.md` pro ukládání do `demo-projekt/epics/`
+5. Vytvoř epik podle šablony `./sablony/epic.sablona.md`
 6. Vytvoř první user story podle šablony `./sablony/user-story.sablona.md`
-7. Uprav prompt v `.github/prompts/nova-user-story.md` a automatizuj vytváření dalších user stories.
+7. Uprav prompt v `.github/prompts/nova-user-story.prompt.md` a automatizuj vytváření dalších user stories.
 8. Vytvoř testovací scénáře pro každou user story ve formátu Gherkin podle šablony `./sablony/test-case.sablona.md`
 9. Nainstaluj si extension Mermaid Chart a vygeneruj sekvenční diagramy pro každou user story.
 10. Vygeneruj ER diagram pro znázornění datového modelu nové funkce.
