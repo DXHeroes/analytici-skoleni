@@ -47,3 +47,33 @@ V této části si vyzkoušíte práci s požadavky na reálném příkladu. Slo
 
 Přejeme vám úspěšný workshop a mnoho inspirace při práci s AI!
 
+```mermaid
+graph TD
+    Start[🚀 Start workshopu] --> Intro[Seznámení se strukturou]
+    
+    Intro --> Part1{Část 1: Promptování}
+    
+    Part1 --> Task1[Zadání promptování]
+    Task1 --> ExA[Cvičení A: Backlog]
+    ExA --> ExB[Cvičení B: Specifikace]
+    ExB --> ExC[Cvičení C: Testování]
+    ExC --> ExD[Cvičení D: Analýza]
+    ExD --> Share1[Sdílení výsledků]
+    
+    Share1 --> Part2{Část 2: Demo projekt}
+    
+    Part2 --> ProjTask[Zadání projektu]
+    ProjTask --> Attach[Prostudování podkladů]
+    Attach --> Issues[Identifikace rozporu]
+    Issues --> Doc[Tvorba dokumentace]
+    Doc --> Templates[User Stories, Epiky,<br/>Test Cases]
+    Templates --> Team[Diskuse v týmu]
+    Team --> Share2[Sdílení poznatků]
+    
+    Share2 --> End[✅ Workshop ukončen]
+    
+    style Start fill:#90EE90
+    style End fill:#FFB6C1
+    style Part1 fill:#87CEEB
+    style Part2 fill:#87CEEB
+```
