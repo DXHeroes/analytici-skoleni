@@ -1,4 +1,4 @@
-# ⭐️ Vítejte na workshopu školení AI pro IT analytiky
+# ⭐️ Vítejte na workshopu AI - Pokročilé techniky a automatizace analytických use cases (L2)
 
 Tento repozitář je vaším pracovním prostorem pro celý workshop. Najdete zde podrobné zadání, zápisy ze schůzek, šablony pro dokumentaci i praktická cvičení zaměřená na využití AI v roli IT analytika.
 
