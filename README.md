@@ -15,12 +15,12 @@ Tato část je zaměřena na trénink efektivního zadávání promptů pro AI n
 	- `cviceni-B-specifikace.md` – analytická dokumentace z požadavků
 	- `cviceni-C-testovani.md` – testovací scénáře z požadavků
 	- `cviceni-D-analyza.md` – kritická analýza protichůdných podkladů
-- **Kontextové soubory** (`kontext/`): Ukázky možných postupů a promptovacích technik pro jednotlivá cvičení.
 
 **Jak postupovat:**
 1. Otevřete zadání a prostudujte jednotlivá cvičení.
-2. Nejprve se pokuste úkol vyřešit sami, pak se inspirujte kontextovými soubory.
+2. Nejprve se pokuste úkol vyřešit sami, případně konzultujte s ostatními účastníky.
 3. Sdílejte své výsledky a tipy s ostatními účastníky.
+4. Pokud máte problém, konzultujte s instruktorem.
 
 ### 2️⃣ Demo projekt (`demo-projekt/`)
 V této části si vyzkoušíte práci s požadavky na reálném příkladu. Složka obsahuje:
